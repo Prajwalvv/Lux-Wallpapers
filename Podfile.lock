@@ -1,0 +1,22 @@
+PODS:
+  - GlidingCollection (2.1.0)
+  - SDWebImage/Core (5.0.1)
+  - SDWebImage/MapKit (5.0.1):
+    - SDWebImage/Core
+
+DEPENDENCIES:
+  - GlidingCollection
+  - SDWebImage/MapKit
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - GlidingCollection
+    - SDWebImage
+
+SPEC CHECKSUMS:
+  GlidingCollection: a15dbd9ec1775c781453bc36e6104d0c9dec20fb
+  SDWebImage: 27dd2c9ea07a2252f94557c9fbb6105ee94b74c9
+
+PODFILE CHECKSUM: b7f3d6e94ec2049f459112a40dae55c2dbfe120b
+
+COCOAPODS: 1.5.3
