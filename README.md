@@ -1,6 +1,6 @@
 # Lux Wallpapers
 
-![Lux Wallpapers](https://github.com/Prajwalvv/Lux-Wallpapers/raw/main/superior%20wallpapers/Assets.xcassets/startLogo.imageset/startLogo.png)
+![Lux Wallpapers](https://github.com/Prajwalvv/Lux-Wallpapers/raw/main/IMG_0527.PNG)
 
 ## Overview
 Lux Wallpapers is a premium iOS application featuring a curated collection of luxury wallpapers for iPhone. The app reached the top 7 position worldwide in its category when it was released in 2019.
